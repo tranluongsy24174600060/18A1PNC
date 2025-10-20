@@ -1,0 +1,18 @@
+[
+  {
+    "ma": "25",
+    "ngay": "25/06/2025",
+    "don_gia": 23000.0,
+    "so_luong": 300,
+    "loai": "USD",
+    "loai_giao_dich": "tien"
+  },
+  {
+    "ma": "29",
+    "ngay": "26/07/2023",
+    "don_gia": 25000.0,
+    "so_luong": 300,
+    "loai_vang": "24K",
+    "loai_giao_dich": "vang"
+  }
+]
